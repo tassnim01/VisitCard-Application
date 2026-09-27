@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VisitCard</string>
+    <string name="name">Tassnim Khalladi</string>
+    <string name="description">Android Developer Extraordinaire</string>
+    <string name="tel">+11 (123) 444 555 666</string>
+    <string name="Androidemail">\@AndroidDev</string>
+    <string name="email">tassnim.khalladi@android.com</string>
+</resources>
